@@ -1,5 +1,5 @@
 
-<p align="center">Hi there 👋</p>
+<p align="center"><strong>Hi there 👋</strong></p>
 <p align="center">I’m currently learning Java and C++</p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatouCode&theme=blue-green" /> </p>
 
