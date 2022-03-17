@@ -1,11 +1,12 @@
-### Hi there 👋
 
+<p align="center">Hi there 👋</p>
+<p align="center">I’m currently learning Java and C++</p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatouCode&theme=blue-green" /> </p>
 
 
 <!--
 **TatouCode/TatouCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
